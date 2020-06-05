@@ -1,0 +1,445 @@
+,area,bathroom_num,bedroom_num,dev_name,latitude,locality,longitude,price,type
+0,1000.0,2.0,4,Sheth Developers,19.0602605967823,Bandra Band Stand,72.8242003856004,280000,Apartment
+1,1000.0,1.0,1,House of Hiranandani,19.0483954,Chembur,72.9068286,35000,Apartment
+2,1000.0,1.0,1,Cooperative Group Housing Society,0.0,Andheri West,0.0,33000,Apartment
+3,1000.0,1.0,1,Godrej Properties,19.0937492,Vikhroli,72.922604,44000,Apartment
+4,1000.0,1.0,1,Godrej Properties,19.0937492,Vikhroli,72.922604,40000,Apartment
+5,1000.0,1.0,1,Sugee Group,19.016018571807894,Dadar West,72.8351364599614,57000,Apartment
+6,1000.0,2.0,2,Ekta World,19.471987,Dongarpada,72.800387,10000,Apartment
+7,1000.0,2.0,2,Agarwal Group,19.46703238,Virar,72.80161155,10000,Apartment
+8,1000.0,2.0,2,Bachraj Group,19.468761249552895,Virar,72.8001300663784,8000,Apartment
+9,1000.0,2.0,2,Bachraj Group,19.468761249552895,Virar,72.8001300663784,12000,Apartment
+10,1000.0,2.0,2,Agarwal Group,19.37068218,Vasai West,72.81293356,12000,Apartment
+11,1000.0,2.0,2,Ekta World,19.471987,Dongarpada,72.800387,10500,Apartment
+12,1000.0,2.0,2,Veena Group,19.41070368,Vasai,72.83359245,13000,Apartment
+13,1000.0,2.0,2,Space Realty,19.292746666666694,Beverly Park,72.8713433333333,16000,Apartment
+14,1000.0,2.0,2,Lucky Homes,19.28001,Mira Bhayandar,72.866725,19000,Apartment
+15,1000.0,2.0,2,Mhada Group,19.120715,Powai,72.89815,24000,Apartment
+16,1000.0,2.0,2,Kaul Builder And  Developer,19.3707545,Vasai West,72.81025109999999,25000,Apartment
+17,1000.0,2.0,2,SAI DEEP CONSTRUCTIONS and SHIV SHAKTI BUILDERS & DEVELOPERS,19.215398440785503,Charkop Sector 8,72.81869952480041,24000,Apartment
+18,1000.0,2.0,2,Silver Group,19.21350743,Charkop Sector 2,72.81941844,28000,Apartment
+19,1000.0,2.0,2,Mantri Realty,19.169636363180498,Film City Road,72.8813072936111,30000,Apartment
+20,1000.0,2.0,2,DGS Group,19.1805465,Charkop Sector 4,72.84018470000002,30000,Apartment
+21,1000.0,2.0,2,Lokhandwala Construction Industries Pvt Ltd,19.199249,Kandivali East,72.873699,27000,Apartment
+22,1000.0,2.0,2,Kamanwala Housing Construction Ltd.,19.1941552,Malad West,72.82588630000002,30000,Apartment
+23,1000.0,2.0,2,Ahuja Group,19.2149599,Kandivali West,72.81775490000003,31000,Apartment
+24,1000.0,2.0,2,Kamanwala Housing Construction Ltd.,19.1941552,Malad West,72.82588630000002,30000,Apartment
+25,1000.0,2.0,2,Ahuja Group,19.2149599,Charkop Sector 8,72.81775490000003,31000,Apartment
+26,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,28000,Apartment
+27,1000.0,2.0,2,Kamanwala Housing Construction Ltd.,19.1941552,Malad West,72.82588630000002,31000,Apartment
+28,1000.0,2.0,2,Reliable Group,19.0652061,Kurla East,72.88086259999999,30000,Apartment
+29,1000.0,2.0,2,Shree Constructions,19.2299827,Borivali West,72.83921099999998,28000,Apartment
+30,1000.0,3.0,2,Lokhandwala Construction Industries Pvt Ltd,19.2004299,Kandivali East,72.8714801,29983,Apartment
+31,1000.0,3.0,2,Oberoi Realty Limited,19.1371003,Andheri West,72.83205600000002,30000,Apartment
+32,1000.0,2.0,2,Lokhandwala Infrastructure,19.1957538,Kandivali East,72.8682464,28000,Apartment
+33,1000.0,2.0,2,Kamanwala Housing Construction Ltd.,19.1941552,Malad West,72.82588630000002,29500,Apartment
+34,1000.0,2.0,2,Kamanwala Housing Construction Ltd.,19.1941552,Malad West,72.82588630000002,29500,Apartment
+35,1000.0,2.0,2,Dhaval Developers,19.213054,Charkop,72.81889100000002,30000,Apartment
+36,1000.0,2.0,2,Kamanwala Housing Construction Ltd.,19.1941552,Malad West,72.82588630000002,31000,Apartment
+37,1000.0,2.0,2,Acme Group,19.200165,Kandivali East,72.868551,27000,Apartment
+38,1000.0,2.0,2,Thakur Group,19.2060972,Kandivali East,72.8645006,29000,Apartment
+39,1000.0,2.0,2,Lokhandwala Construction Industries Pvt Ltd,19.1976286684694,Kandivali East,72.8737853266511,30000,Apartment
+40,1000.0,2.0,2,Shethcorp Pvt. Ltd.,19.2158016666667,Magathane,72.8658866666667,31000,Apartment
+41,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.2161347733655,Magathane,72.8662271952278,31000,Apartment
+42,1000.0,2.0,2,Integrated Spaces Limited ,19.1605,Mulund West,72.94767,30000,Apartment
+43,1000.0,2.0,2,Lokhandwala Construction Industries Pvt Ltd,19.199249,Kandivali East,72.873699,30000,Apartment
+44,1000.0,2.0,2,Lokhandwala Construction Industries Pvt Ltd,19.2004299,Kandivali East,72.8714801,28000,Apartment
+45,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.2161347733655,Magathane,72.8662271952278,31000,Apartment
+46,1000.0,2.0,2,Sumit Builder and Developer,19.21954008,Rajendra Nagar,72.85856486,25400,Apartment
+47,1000.0,2.0,2,Shethcorp Pvt. Ltd.,19.2158016666667,Magathane,72.8658866666667,31000,Apartment
+48,1000.0,2.0,2,Sumit Builder and Developer,19.21954008,Rajendra Nagar,72.85856486,25400,Apartment
+49,1000.0,2.0,2,Runwal Developers,19.1648694,Mulund West,72.93842790000002,37000,Apartment
+50,1000.0,2.0,2,Satellite Builders Private Limited,19.1730084,Film City Road,72.8738196,38000,Apartment
+51,1000.0,2.0,2,Acme Group,19.200165,Akurli Nagar,72.868551,35000,Apartment
+52,1000.0,2.0,2,Bholenath Developers Ltd.,19.0447922,Chembur,72.8888242,38000,Apartment
+53,1000.0,2.0,2,Nirmal Lifestyle,19.179115,Lok Housing Colony,72.95762490000001,37000,Apartment
+54,1000.0,2.0,2,Poonam Group,19.136363696269,Andheri East,72.8690696906014,35000,Apartment
+55,1000.0,2.0,2,Cooperative Group Housing Society,19.1756047,Sunder Nagar,72.8403559,35000,Apartment
+56,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.2161347733655,Devi Pada,72.8662271952278,37000,Apartment
+57,1000.0,2.0,2,Sethia Infrastructure,19.201858333333334,Kandivali West,72.83409666666667,35000,Apartment
+58,1000.0,2.0,2,Omkar Realtors and Developers Pvt. Ltd.,19.16885607,Film City Road,72.87786054,38000,Apartment
+59,1000.0,2.0,2,Sheth Enterprises,19.040167408505003,Chembur,72.8956623022811,39000,Apartment
+60,1000.0,2.0,2,HDIL,19.2106442,Kandivali East,72.8726892,32000,Apartment
+61,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.22437887,Datta Pada,72.85973005,37000,Apartment
+62,1000.0,2.0,2,DSK Developers,19.09698958,Andheri East,72.88535274,38000,Apartment
+63,1000.0,2.0,2,Royal Realtors Group,19.203436,Jankalyan Nagar,72.8210452,33000,Apartment
+64,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.2161347733655,Magathane,72.8662271952278,38000,Apartment
+65,1000.0,2.0,2,Poonam Group,19.136363696269,Andheri East,72.8690696906014,35000,Apartment
+66,1000.0,2.0,2,RNA Corporation,19.207669,Kandivali West,72.83450400000002,35000,Apartment
+67,1000.0,2.0,2,Kiran Builders,19.182353,Ekta Nagar,72.8375309,37000,Apartment
+68,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Savarkar Chowk,0.0,39000,Apartment
+69,1000.0,2.0,2,RNA NG Builders,19.12021420298,Kanjurmarg East,72.9299633704782,32000,Apartment
+70,1000.0,2.0,2,Nirmal Life Style,19.166696,Mulund West,72.937422,34000,Apartment
+71,1000.0,2.0,2,Rustomjee,19.221293,Rajendra Nagar,72.85781999999998,32000,Apartment
+72,1000.0,2.0,2,Vivaria Global Developers,19.1790625924444,Malad West,72.8402873665905,33000,Apartment
+73,1000.0,2.0,2,Town Developers,19.14238,Malcom Baug,72.841511,38000,Apartment
+74,1000.0,2.0,2,Aadi Properties,19.130785,Kanjurmarg East,72.938082,38000,Apartment
+75,1000.0,2.0,2,Royal Realtors Group,19.203436,Jankalyan Nagar,72.8210452,34500,Apartment
+76,1000.0,2.0,2,Gemstar Constructions,19.181492506980952,Ekta Nagar,72.83682145989725,38000,Apartment
+77,1000.0,2.0,2,Nirmal Lifestyle,19.179115,Mulund West,72.95762490000001,37000,Apartment
+78,1000.0,2.0,2,Satra Group,19.0593745,Chembur,72.9120259,36000,Apartment
+79,1000.0,2.0,2,Atul Projects,19.1251044923422,Andheri East,72.8682120346131,39000,Apartment
+80,1000.0,2.0,2,Aakar Developers,19.17596448,Film City Road,72.87337331,36000,Apartment
+81,1000.0,2.0,2,Atul Projects,19.1251044923422,Chakala MIDC,72.8682120346131,37000,Apartment
+82,1000.0,2.0,2,Marathon Realty Pvt Ltd,19.1855878,Mulund West,72.9493718,37000,Apartment
+83,1000.0,2.0,2,Lok Housing and Constructions Ltd.,19.1163723076522,Andheri East,72.87749244114521,36000,Apartment
+84,1000.0,2.0,2,HDIL,19.1801882,Malad West,72.83753709999998,36000,Apartment
+85,1000.0,2.0,2,JP Developers,19.2026209,Akurli Nagar,72.85821,37000,Apartment
+86,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Savarkar Chowk,0.0,35000,Apartment
+87,1000.0,2.0,2,Park View Developers,19.2245666666667,Magathane,72.8644433333333,37000,Apartment
+88,1000.0,2.0,2,Jain Group,19.178022699792105,Malad West,72.8413549056171,38000,Apartment
+89,1000.0,2.0,2,Mayuresh Group,19.1596950179688,Bhandup Industrial Estate,72.9358988107455,38000,Apartment
+90,1000.0,2.0,2,The Wadhwa Group,19.1595755,Mulund West,72.9465747,38000,Apartment
+91,1000.0,2.0,2,Lok Housing and Constructions Ltd.,19.1231824,Vikhroli West,72.923377,35000,Apartment
+92,1000.0,2.0,2,Spring Developers,19.0724961,Kandivali East,72.8343615,34000,Apartment
+93,1000.0,2.0,2,Kiran Builders,19.182353,Ekta Nagar,72.8375309,38000,Apartment
+94,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.2187683,Magathane,72.8615252,37000,Apartment
+95,1000.0,2.0,2,Chaitanya Group,19.217309263073002,Siddhartha Nagar,72.8705672146112,36000,Apartment
+96,1000.0,2.0,2,Kaustubh Construction Pvt. Ltd.,19.2216246,Rajendra Nagar,72.85787370000001,33000,Apartment
+97,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.22437887,Datta Pada,72.85973005,34000,Apartment
+98,1000.0,2.0,2,Lokhandwala Group,19.1998983806115,Lokhandwala Twp,72.875790991372,33000,Apartment
+99,1000.0,2.0,2,Bhatia Builders & Developers,19.22071025,Magathane,72.86242242,32000,Apartment
+100,1000.0,2.0,2,Raj Group,19.1163891612432,Andheri East,72.8835752602916,46000,Apartment
+101,1000.0,2.0,2,Supreme Universal,19.1135524,Powai,72.8995003,48000,Apartment
+102,1000.0,2.0,2,Cooperative Group Housing Society,19.1202288,Chandivali,72.89378740000002,44000,Apartment
+103,1000.0,2.0,2,Omkar Realtors,19.061591,Chembur,72.8930146,45000,Apartment
+104,1000.0,2.0,2,Cooperative Group Housing Society,19.1202288,Chandivali,72.89378740000002,44000,Apartment
+105,1000.0,2.0,2,Cooperative Group Housing Society,19.1202288,Chandivali,72.89378740000002,44000,Apartment
+106,1000.0,2.0,2,Sethi Group,19.17885045,Malad West,72.84416134,45000,Apartment
+107,1000.0,2.0,2,Chandak Group,19.172168,Goregaon West,72.84689399999998,45000,Apartment
+108,1000.0,2.0,2,RNA Corp,19.13962766,Andheri East,72.8681627,48150,Apartment
+109,1000.0,2.0,2,Runwal Developers,19.1637685,Mulund West,72.9390525,40000,Apartment
+110,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,50000,Apartment
+111,1000.0,2.0,2,Housing Development & Infrastructure,19.1791873,Malad West,72.8398496,42000,Apartment
+112,1000.0,2.0,2,Bhoomi Group,19.174639000000006,Sunder Nagar,72.83753100000001,40000,Apartment
+113,1000.0,2.0,2,Runwal Developers,19.0508715,Chembur,72.9141782,45500,Apartment
+114,1000.0,2.0,2,D Group,19.12949431,Sahakar Nagar,72.83232227,48000,Apartment
+115,1000.0,2.0,2,Atul Projects,19.13633063,Andheri East,72.86336163,50000,Apartment
+116,1000.0,2.0,2,Dev Land Housing Ltd,19.28903,Azad Nagar,72.8757043,50000,Apartment
+117,1000.0,2.0,2,RNA Corp,19.13962766,JVLR-Jogeshwari Vikhroli Link Road,72.8681627,48000,Apartment
+118,1000.0,2.0,2,Godrej Properties,19.0637822,Chembur,72.89200500000003,45000,Apartment
+119,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.10919095,Andheri East,72.88469140000002,50000,Apartment
+120,1000.0,2.0,2,Chandak Group,19.172168,Udyog Nagar,72.84689399999998,42000,Apartment
+121,1000.0,2.0,2,The Wadhwa Group,19.1595755,Mulund West,72.9465747,40000,Apartment
+122,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Film City,0.0,45000,Apartment
+123,1000.0,2.0,2,HCBS Developer,19.1416655,Andheri West,72.83453134,50000,Apartment
+124,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Chandivali,72.89484909999999,44000,Apartment
+125,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.2187683,Borivali East,72.8615252,40000,Apartment
+126,1000.0,2.0,2,Chandak Group,19.172168,Goregaon West,72.84689399999998,40000,Apartment
+127,1000.0,2.0,2,SD Corporation Private Limited,0.0,Kandivali East,0.0,45000,Apartment
+128,1000.0,2.0,2,SMGK Group,19.1392184336597,Bandivali,72.84010982774791,50000,Apartment
+129,1000.0,2.0,2,Rajesh LifeSpaces,19.116876,Vikhroli West,72.926552,47000,Apartment
+130,1000.0,2.0,2,Mahindra Lifespace Developers Ltd.,19.134493,Kanjurmarg West,72.928885,40000,Apartment
+131,1000.0,2.0,2,GHP Group,19.11442255,Chandivali,72.89818433,50000,Apartment
+132,1000.0,2.0,2,Sadguna Realty,0.0,Chembur,0.0,50000,Apartment
+133,1000.0,1.0,2,Cooperative Group Housing Society,0.0,Santacruz East,0.0,50000,Apartment
+134,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,48000,Apartment
+135,1000.0,2.0,2,Godrej Properties,19.0648424,Chembur,72.89203,46000,Apartment
+136,1000.0,2.0,2,Veena Developers,19.2193711,Sai Baba Nagar,72.8478485,42000,Apartment
+137,1000.0,2.0,2,Srishti Group,19.11477,Powai,72.9040387,49000,Apartment
+138,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,49000,Apartment
+139,1000.0,2.0,2,Jain Group,19.178022699792105,Malad West,72.8413549056171,45000,Apartment
+140,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,43000,Apartment
+141,1000.0,2.0,2,Sadguru Group Housing & Infrastructure,19.1741063832625,Goregaon East,72.87221706723409,45000,Apartment
+142,1000.0,2.0,2,The Wadhwa Group,19.0960569,Ghatkopar West,72.9168188,45000,Apartment
+143,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,47000,Apartment
+144,1000.0,2.0,2,Cooperative Group Housing Society,19.0531452,Chembur,72.89828409999998,43000,Apartment
+145,1000.0,2.0,2,Acme Group,19.106889,Marol,72.8597707,42000,Apartment
+146,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Goregaon East,0.0,45000,Apartment
+147,1000.0,2.0,2,K Raheja Corp,19.186172336455396,Mindspace,72.83592701562759,40000,Apartment
+148,1000.0,2.0,2,Lodha Group,19.12258624,Andheri East,72.86824804,48000,Apartment
+149,1000.0,2.0,2,Chandak Group,19.172168,Goregaon West,72.84689399999998,43000,Apartment
+150,1000.0,2.0,2,Samartha Group,19.1470763119978,Lokhandwala Complex,72.82947881432541,50000,Apartment
+151,1000.0,2.0,2,Ravi Group,19.2100346,Mahavir Nagar,72.8503649,40000,Apartment
+152,1000.0,2.0,2,RNA Corp,19.13962766,JVLR-Jogeshwari Vikhroli Link Road,72.8681627,48000,Apartment
+153,1000.0,2.0,2,Saibaba Builders And Developers,19.162370515861106,Shri Nagar,72.84505534596309,45000,Apartment
+154,1000.0,2.0,2,Chandak Group,19.172168,Goregaon West,72.84689399999998,45000,Apartment
+155,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,0.0,Marol,0.0,49000,Apartment
+156,1000.0,2.0,2,Evershine Builders,19.1378673,Andheri West,72.8361027,45000,Apartment
+157,1000.0,2.0,2,Cooperative Group Housing Society,19.115601,Chandivali,72.904,50000,Apartment
+158,1000.0,2.0,2,Matra Realty Ltd.,19.149266,Andheri West,72.833536,50000,Apartment
+159,1000.0,2.0,2,GHP Group,19.1191814,Powai lake,72.9001756,45000,Apartment
+160,1000.0,2.0,2,Nirmal Lifestyle,19.179115,Mulund West,72.95762490000001,40000,Apartment
+161,1000.0,2.0,2,Neelkanth Group,19.076268,Ghatkopar East,72.90213,50000,Apartment
+162,1000.0,2.0,2,Atul Projects,19.177135224894897,Malad West,72.8411645899628,43000,Apartment
+163,1000.0,2.0,2,HCBS Developer,19.134061453848894,PMGP Colony,72.86630879387741,43000,Apartment
+164,1000.0,2.0,2,Chandak Group,19.172168,Jawahar Nagar,72.84689399999998,45000,Apartment
+165,1000.0,2.0,2,Cooperative Group Housing Society,19.1202288,Chandivali,72.89378740000002,45000,Apartment
+166,1000.0,2.0,2,Lok Housing and Constructions Ltd.,19.113754114543,Marol Maroshi Road,72.88062162383879,43000,Apartment
+167,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,40000,Apartment
+168,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,46000,Apartment
+169,1000.0,2.0,2,Hubtown Limited,19.09969689,Andheri East,72.88498617,46000,Apartment
+170,1000.0,2.0,2,Cooperative Group Housing Society,19.115601,Chandivali,72.904,42000,Apartment
+171,1000.0,2.0,2,Sethia Infrastructure,19.165798972045398,Motilal Nagar 2,72.83753931839841,40000,Apartment
+172,1000.0,2.0,2,Hubtown Limited,19.09969689,Sakinaka Junction,72.88498617,43000,Apartment
+173,1000.0,2.0,2,Group Seven,19.17802411,Film City Road,72.87212826,48000,Apartment
+174,1000.0,2.0,2,K Raheja Corp,19.186172336455396,Mindspace,72.83592701562759,50000,Apartment
+175,1000.0,2.0,2,Zaveri Construction,19.1288671,Andheri West,72.83303431,40000,Apartment
+176,1000.0,2.0,2,Prathamesh Krupa Buildcon Pvt Ltd,19.12882856,Andheri West,72.83300536,50000,Apartment
+177,1000.0,2.0,2,Serenity Groups,19.12887309,Andheri West,72.84396011,40000,Apartment
+178,1000.0,2.0,2,Rajesh LifeSpaces,19.116876,Vikhroli West,72.926552,48000,Apartment
+179,1000.0,2.0,2,Hiranandani Group,19.1196327,Powai,72.9055571,50000,Apartment
+180,1000.0,2.0,2,Nahar Group,19.105165,Powai,72.9001526,48000,Apartment
+181,1000.0,2.0,2,RNA Corp,19.13962766,JVLR-Jogeshwari Vikhroli Link Road,72.8681627,45000,Apartment
+182,1000.0,2.0,2,The Gundecha Group,19.0995917,Sakinaka,72.8826838,45000,Apartment
+183,1000.0,2.0,2,Maharaja Surajmal Developer,19.120168600000003,Andheri West,72.8292084,50000,Apartment
+184,1000.0,2.0,2,Acme Group,19.12986957,Andheri West,72.83319559,50000,Apartment
+185,1000.0,2.0,2,Acme Builders Pvt Ltd,19.135875743684398,Andheri East,72.865508874276,45000,Apartment
+186,1000.0,2.0,2,GHP Group,19.1191814,Powai,72.9001756,48000,Apartment
+187,1000.0,2.0,2,Cooperative Group Housing Society,19.1202288,Chandivali,72.89378740000002,44000,Apartment
+188,1000.0,3.0,2,GHP Group,19.11640153,Powai,72.90453169,40000,Apartment
+189,1000.0,2.0,2,Nahar Group,19.111263,Chandivali,72.8956507,46000,Apartment
+190,1000.0,2.0,2,Acme Builders Pvt Ltd,19.1737749886016,Sunder Nagar,72.8406757267728,42000,Apartment
+191,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,45000,Apartment
+192,1000.0,2.0,2,Kabra Group,19.126972,D.N. Nagar,72.832134,46000,Apartment
+193,1000.0,2.0,2,Chandak Group,19.172168,Udyog Nagar,72.84689399999998,45000,Apartment
+194,1000.0,2.0,2,Hetali Group,0.0,Vishveshwar Nagar,0.0,48000,Apartment
+195,1000.0,2.0,2,Acme Builders Pvt Ltd,19.135875743684398,Andheri East,72.865508874276,44000,Apartment
+196,1000.0,2.0,2,Neelam Realtors,0.0,Nahur East,0.0,43000,Apartment
+197,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,45000,Apartment
+198,1000.0,2.0,2,Nahar Group,19.105165,Powai,72.9001526,50000,Apartment
+199,1000.0,2.0,2,Abrol Builders,19.1933249,Evershine Nagar,72.83112476,45000,Apartment
+200,1000.0,2.0,2,Lodha Group,19.12258624,Andheri East,72.86824804,46000,Apartment
+201,1000.0,2.0,2,Silver Group,19.1507265,Andheri West,72.82889982,40000,Apartment
+202,1000.0,2.0,2,Hiranandani Group,19.1146183333333,Powai,72.90864499999998,47999,Apartment
+203,1000.0,2.0,2,Nahar Group,19.105165,Powai,72.9001526,48000,Apartment
+204,1000.0,2.0,2,RNA Corp,19.13962766,JVLR-Jogeshwari Vikhroli Link Road,72.8681627,46000,Apartment
+205,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,40000,Apartment
+206,1000.0,2.0,2,K Raheja Corp,19.186172336455396,Malad West,72.83592701562759,46000,Apartment
+207,1000.0,2.0,2,Nahar Group,19.1130883,Powai,72.8930921,50000,Apartment
+208,1000.0,2.0,2,Cooperative Group Housing Society,19.1202288,Chandivali,72.89378740000002,45000,Apartment
+209,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,48000,Apartment
+210,1000.0,2.0,2,Cooperative Group Housing Society,19.1197046,Chandivali,72.8936639,44000,Apartment
+211,1000.0,2.0,2,Srishti Construction,19.1139745,Powai,72.9035992,40500,Apartment
+212,1000.0,2.0,2,Evershine Builders,19.17670634,Mindspace,72.83332697,50000,Apartment
+213,1000.0,2.0,2,Prathamesh Krupa Buildcon Pvt Ltd,19.12882856,Andheri West,72.83300536,50000,Apartment
+214,1000.0,2.0,2,Acme Builders Pvt Ltd,19.135875743684398,Poonam Nagar,72.865508874276,44000,Apartment
+215,1000.0,2.0,2,Mhada Group,19.120203333333333,Powai lake,72.89924166666667,42000,Apartment
+216,1000.0,2.0,2,DLH Developers,19.142096,Andheri West,72.826173,50000,Apartment
+217,1000.0,2.0,2,Srishti Group,0.0,Powai,0.0,48000,Apartment
+218,1000.0,2.0,2,V.R. Mittal Pvt. Ltd.,19.0817630822151,Santacruz East,72.8506330949477,46000,Apartment
+219,1000.0,2.0,2,Mayfair Housing,19.1066791,Vikhroli West,72.917087,48000,Apartment
+220,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,45000,Apartment
+221,1000.0,2.0,2,The Wadhwa Group,19.11659295,Powai,72.88992792,46000,Apartment
+222,1000.0,2.0,2,Runwal Developers,19.1637685,Link Road,72.9390525,40000,Apartment
+223,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,49000,Apartment
+224,1000.0,2.0,2,Nahar Group,19.111263,Chandivali,72.8956507,47000,Apartment
+225,1000.0,2.0,2,Srishti Construction,19.1139745,Powai,72.9035992,47000,Apartment
+226,1000.0,2.0,2,V.R. Mittal Pvt. Ltd.,19.0817630822151,Santacruz East,72.8506330949477,46000,Apartment
+227,1000.0,2.0,2,Mayfair Housing,19.1066791,Vikhroli West,72.917087,50000,Apartment
+228,1000.0,2.0,2,Supreme Universal,19.1135524,Powai,72.8995003,48000,Apartment
+229,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,50000,Apartment
+230,1000.0,2.0,2,Runwal Developers,19.0508715,Lakme Road,72.9141782,43000,Apartment
+231,1000.0,2.0,2,GHP Group,19.117961175153894,Powai,72.9023774234891,50000,Apartment
+232,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,49000,Apartment
+233,1000.0,2.0,2,GHP Group,19.11640153,Powai,72.90453169,40000,Apartment
+234,1000.0,2.0,2,Cresent Developers,19.0999084,Safed Pul,72.8810224,45000,Apartment
+235,1000.0,2.0,2,GHP Builders And Developers,19.1192445,Chandivali,72.8996312,45000,Apartment
+236,1000.0,2.0,2,Nirmals Constructions,19.165507,LBS Marg,72.935537,46000,Apartment
+237,1000.0,2.0,2,Srishti Group,0.0,Powai,0.0,50000,Apartment
+238,1000.0,2.0,2,Acme Builders Pvt Ltd,19.1737749886016,Malad West,72.8406757267728,45000,Apartment
+239,1000.0,2.0,2,Cooperative Group Housing Society,19.172305,Film City,72.87261550000002,40000,Apartment
+240,1000.0,2.0,2,V.R. Mittal Pvt. Ltd.,19.0817630822151,Santacruz East,72.8506330949477,45000,Apartment
+241,1000.0,2.0,2,Kukreja construction,19.0457733,Chembur,72.8971884,44000,Apartment
+242,1000.0,2.0,2,Sadguru Group Housing & Infrastructure,19.1741063832625,Film City,72.87221706723409,45000,Apartment
+243,1000.0,2.0,2,Ashish Estates & Properties,19.177220805592,Film City Road,72.8705878488227,45000,Apartment
+244,1000.0,2.0,2,Haware,28.599658,Chembur,77.03724659999997,45000,Apartment
+245,1000.0,2.0,2,GHP Group,19.1191814,Powai lake,72.9001756,42000,Apartment
+246,1000.0,2.0,2,Evershine Builders,19.144893600000003,Andheri West,72.8368073,47300,Apartment
+247,1000.0,2.0,2,Shethcorp Pvt. Ltd.,19.1768603281452,Film City Road,72.8627587443723,45000,Apartment
+248,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Santacruz East,0.0,42000,Apartment
+249,1000.0,2.0,2,Spenta Builders,19.1293717,Sakinaka Junction,72.8525247,40000,Apartment
+250,1000.0,2.0,2,Gundecha Group,19.1121433333333,Powai,72.90314000000002,50000,Apartment
+251,1000.0,2.0,2,Kamanwala Industries,19.1160771,Andheri East,72.8870803,45000,Apartment
+252,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Santacruz East,0.0,42000,Apartment
+253,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,50000,Apartment
+254,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,50000,Apartment
+255,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Santacruz East,0.0,43000,Apartment
+256,1000.0,2.0,2,Vasudha Buildcon,19.0796132722805,Santacruz East,72.85281945035999,50000,Apartment
+257,1000.0,2.0,2,Raheja Developers Ltd.,0.0,Chandivali,0.0,50000,Apartment
+258,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Powai,72.89484909999999,43000,Apartment
+259,1000.0,2.0,2,Cooperative Group Housing Society,19.115601,Chandivali,72.904,50004,Apartment
+260,1000.0,2.0,2,Raheja Developers Ltd.,19.1181,Central Area,72.89484909999999,45000,Apartment
+261,1000.0,2.0,2,Srishti Group,19.117237768943106,Powai,72.88785491943271,40000,Apartment
+262,1000.0,2.0,2,Hiranandani Group,19.1147692,Panchkutir Ganesh Nagar,72.9060245,55000,Apartment
+263,1000.0,2.0,2,H K Pujara Builders,19.13605492,Andheri West,72.83612939,55000,Apartment
+264,1000.0,2.0,2,Lodha Group,19.035872805828397,Wadala,72.8791787798633,58000,Apartment
+265,1000.0,2.0,2,DGS Group,19.0743589,Kalina,72.8611306,60000,Apartment
+266,1000.0,2.0,2,HCBS Developer,19.1416655,Andheri West,72.83453134,60000,Apartment
+267,1000.0,2.0,2,AJMERA,19.13894569,Andheri West,72.82940015,55000,Apartment
+268,1000.0,2.0,2,Cooperative Group Housing Society,19.115601,Chandivali,72.904,53000,Apartment
+269,1000.0,2.0,2,Godrej Properties,19.0937492,Vikhroli,72.922604,58000,Apartment
+270,1000.0,2.0,2,Nahar Group,19.105165,Chandivali,72.9001526,57000,Apartment
+271,1000.0,2.0,2,D Kapoor Land Developers,19.1379646,Andheri West,72.827219,60000,Apartment
+272,1000.0,2.0,2,Kabra Group,19.126972,Andheri West,72.832134,55000,Apartment
+273,1000.0,2.0,2,Supreme Universal,19.1135524,Powai,72.8995003,55000,Apartment
+274,1000.0,2.0,2,Gulmohar Builders,19.1280885,Andheri West,72.8422028,55000,Apartment
+275,1000.0,2.0,2,Keshav Vitthal Sonawane,19.083533,Kurla West,72.884647,60000,Apartment
+276,1000.0,2.0,2,Indra Darshan Developer,19.1480305,Oshiwara,72.8317285,60000,Apartment
+277,1000.0,2.0,2,Aaress realty,0.0,Andheri East,0.0,55000,Apartment
+278,1000.0,2.0,2,JV Construction,19.1153778,Andheri East,72.8706487,55000,Apartment
+279,1000.0,2.0,2,Evershine Group,19.140793043201,Veera Desai Road,72.8367363728463,60000,Apartment
+280,1000.0,2.0,2,H K Pujara Builders,19.13605492,Veera Desai Road,72.83612939,54000,Apartment
+281,1000.0,2.0,2,HCBS Developer,19.1416655,Andheri West,72.83453134,55000,Apartment
+282,1000.0,2.0,2,H K Pujara Builders,19.13605492,Andheri West,72.83612939,55000,Apartment
+283,1000.0,2.0,2,Hiranandani Group,19.1147692,Powai,72.9060245,60000,Apartment
+284,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,58000,Apartment
+285,1000.0,1.0,2,Cooperative Group Housing Society,0.0,Andheri West,0.0,60000,Apartment
+286,1000.0,2.0,2,Ekta World,19.116322,Powai,72.9025293,51000,Apartment
+287,1000.0,2.0,2,L&T Realty,19.1213965,Powai,72.8908437,60000,Apartment
+288,1000.0,2.0,2,Arch Eden Developer,19.1380231,Andheri West,72.8278062,55000,Apartment
+289,1000.0,2.0,2,Motwani Builders,19.151943610291,Andheri West,72.8298349228762,55000,Apartment
+290,1000.0,2.0,2,K Raheja Realty,19.186538618179604,Mindspace,72.832627073639,55000,Apartment
+291,1000.0,2.0,2,Acme Group,19.12986957,Andheri West,72.83319559,55000,Apartment
+292,1000.0,2.0,2,Hiranandani Group,19.1147692,Powai,72.9060245,58000,Apartment
+293,1000.0,2.0,2,Nha infra,19.0457405,Chembur,72.891065,56000,Apartment
+294,1000.0,2.0,2,Nahar Group,19.12809637,Seven Bungalows,72.81965429,62000,Apartment
+295,1000.0,2.0,2,Nahar Group,19.1077728874082,Chandivali,72.89723402507059,62000,Apartment
+296,1000.0,2.0,2,L&T Realty,19.122307,Powai,72.89599270000002,55000,Apartment
+297,1000.0,2.0,2,Rustomjee,19.173714687910604,Goregaon West,72.8409863148874,55000,Apartment
+298,1000.0,2.0,2,Ajmera Group,19.02935005594641,Bhakti Park,72.88030444699154,51000,Apartment
+299,1000.0,2.0,2,Nahar Group,19.1064822,Powai,72.9003577,55000,Apartment
+300,1000.0,2.0,2,Vaibhav properties,19.076730800000004,Vakola,72.85426650000002,62000,Apartment
+301,1000.0,2.0,2,HCBS Developer,19.1416655,Andheri West,72.83453134,56000,Apartment
+302,1000.0,2.0,2,H K Pujara Builders,19.13605492,Andheri West,72.83612939,55000,Apartment
+303,1000.0,2.0,2,L&T Realty,19.1213965,Powai,72.8908437,54000,Apartment
+304,1000.0,2.0,2,Rustomjee,19.17450806,Mindspace,72.83458096,52000,Apartment
+305,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Andheri West,0.0,56000,Apartment
+306,1000.0,2.0,2,Hiranandani Group,19.1179513,Powai,72.909637,59000,Apartment
+307,1000.0,2.0,2,Morya Group,19.0774349,Santacruz East,72.84196390000002,52000,Apartment
+308,1000.0,2.0,2,Supreme Universal,19.1142547770137,Powai lake,72.9002670217489,55000,Apartment
+309,1000.0,2.0,2,Ekta World,19.11382558,Powai,72.89989433,53000,Apartment
+310,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,60000,Apartment
+311,1000.0,2.0,2,Damji Shamji Shah Group,19.124657,Powai,72.892539,52000,Apartment
+312,1000.0,2.0,2,Transcon Sheth Creators,19.191842,Kanch Pada,72.83458123,53000,Apartment
+313,1000.0,2.0,2,Ajmera Group,19.02935005594641,Wadala East,72.88030444699154,52000,Apartment
+314,1000.0,2.0,2,D Kapoor Land Developers,19.1379646,Oshiwara,72.827219,60000,Apartment
+315,1000.0,2.0,2,Ajmera Realty & Infra India Ltd.,18.686021540842198,Bhakti Park,72.79986571997841,53000,Apartment
+316,1000.0,2.0,2,Supreme Universal,19.1142547770137,Powai,72.9002670217489,52000,Apartment
+317,1000.0,2.0,2,Kumar Builders,19.07658768,Santacruz East,72.86424255,55000,Apartment
+318,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,60000,Apartment
+319,1000.0,2.0,2,L&T Realty,19.122307,Powai,72.89599270000002,56000,Apartment
+320,1000.0,2.0,2,Supreme Universal,19.1135524,Powai,72.8995003,55000,Apartment
+321,1000.0,2.0,2,Kumar Builders,19.07658768,Santacruz East,72.86424255,55000,Apartment
+322,1000.0,2.0,2,H K Pujara Builders,19.13605492,Andheri West,72.83612939,55000,Apartment
+323,1000.0,2.0,2,Vaibhav properties,19.076730800000004,Santacruz East,72.85426650000002,55000,Apartment
+324,1000.0,2.0,2,Kohinoor Developer,19.15172033,Andheri West,72.82838209,55000,Apartment
+325,1000.0,2.0,2,Vaibhav properties,19.076730800000004,Santacruz East,72.85426650000002,55000,Apartment
+326,1000.0,2.0,2,Vaibhav properties,19.076730800000004,Santacruz East,72.85426650000002,55000,Apartment
+327,1000.0,2.0,2,Vaibhav properties,19.076730800000004,Santacruz East,72.85426650000002,55000,Apartment
+328,1000.0,2.0,2,Kumar Builders,19.07658768,Santacruz East,72.86424255,55000,Apartment
+329,1000.0,2.0,2,Cooperative Group Housing Society,19.1197046,Chandivali,72.8936639,60000,Apartment
+330,1000.0,2.0,2,Srishti Construction,19.1139745,Powai,72.9035992,55000,Apartment
+331,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,52000,Apartment
+332,1000.0,2.0,2,Kumar Builders,19.07658768,"Sundar Nagar, Kalina",72.86424255,55000,Apartment
+333,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,52000,Apartment
+334,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,70000,Apartment
+335,1000.0,2.0,2,Kabra Group,19.073390300000003,Santacruz East,72.8654319,70000,Apartment
+336,1000.0,2.0,2,K Raheja Corp,19.1371003,Andheri West,72.83205600000002,75000,Apartment
+337,1000.0,2.0,2,Sundervan Group,19.1373587,Andheri West,72.8287447,65000,Apartment
+338,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Vile Parle East,0.0,65000,Apartment
+339,1000.0,2.0,2,Nathani Group,18.9686526787199,Mumbai Central,72.81955099449759,72000,Apartment
+340,1000.0,2.0,2,Supreme Universal,19.1450178,Andheri West,19.1450178,70000,Apartment
+341,1000.0,2.0,2,Evershine Builders,19.1463311089977,Andheri West,72.834625772999,75000,Apartment
+342,1000.0,2.0,2,Kabra Group,19.073390300000003,Kalina,72.8654319,63333,Apartment
+343,1000.0,2.0,2,Godrej Properties,19.0937492,Vikhroli,72.922604,65000,Apartment
+344,1000.0,2.0,2,Omkar Realtors and Developers Pvt. Ltd.,19.07023,Bandra Kurla Complex,72.876903,65000,Apartment
+345,1000.0,2.0,2,Cooperative Group Housing Society,19.0247008,Khar West,72.8367684,75000,Apartment
+346,1000.0,2.0,2,Cooperative Group Housing Society,19.1140593,Andheri East,72.8833768,65000,Apartment
+347,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.139307,Jeet Nagar,72.8066193,75000,Apartment
+348,1000.0,2.0,2,Omkar Realtors and Developers Pvt. Ltd.,19.07023,Bandra Kurla Complex,72.876903,65000,Apartment
+349,1000.0,2.0,2,Om Group,18.9991177205932,Parel,72.8448386426703,76000,Apartment
+350,1000.0,2.0,2,Omkar Realtors and Developers Pvt. Ltd.,19.0013826,Parmanand Wadi,72.84845279999998,72000,Apartment
+351,1000.0,2.0,2,Bharat Builders,19.0722769,Kalina,72.8642505,64999,Apartment
+352,1000.0,2.0,2,K Raheja Corp,19.1371003,Lokhandwala Complex,72.83205600000002,75000,Apartment
+353,1000.0,2.0,2,Cooperative Group Housing Society,19.1241633,Andheri West,72.8410072,70000,Apartment
+354,1000.0,1.0,2,Cooperative Group Housing Society,0.0,Andheri West,0.0,70000,Apartment
+355,1000.0,2.0,2,K Raheja Corp,19.1371003,Andheri West,72.83205600000002,75000,Apartment
+356,1000.0,2.0,2,Hilla Builder Pvt. Ltd.,19.057589,Bandra West,72.83142600000002,75000,Apartment
+357,1000.0,2.0,2,Kabra Group,19.073390300000003,Kalina,72.8654319,66000,Apartment
+358,1000.0,2.0,2,Windsor Realty,19.136035289426104,Lokhandwala Complex,72.8267073581455,70000,Apartment
+359,1000.0,2.0,2,Shree Yogeshwar Builders And Developers,19.0198623047892,Prabhadevi,72.8320821964833,75000,Apartment
+360,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Dadar West,0.0,72000,Apartment
+361,1000.0,2.0,2,Runwal Developers,19.0831159325653,Santacruz East,72.8509514581474,65000,Apartment
+362,1000.0,2.0,2,The Wadhwa Group,19.11659295,Powai,72.88992792,65000,Apartment
+363,1000.0,2.0,2,RJ Group,18.9646637,Grant Road,72.8152736,65000,Apartment
+364,1000.0,2.0,2,Bharat Builders,19.0722769,Kalina,72.8642505,68000,Apartment
+365,1000.0,2.0,2,Lodha Group,18.912904,Cuffe Parade,72.82124499999998,65000,Apartment
+366,1000.0,2.0,2,Runwal Developers,19.0831159325653,Santacruz East,72.8509514581474,65000,Apartment
+367,1000.0,2.0,2,Sheth Creators,19.114625,Andheri East,72.88409300000002,68000,Apartment
+368,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Matunga East,0.0,70000,Apartment
+369,1000.0,2.0,2,Bharat Builders,19.0722769,Santacruz East,72.8642505,65000,Apartment
+370,1000.0,2.0,2,Kabra Group,19.073390300000003,Santacruz East,72.8654319,70000,Apartment
+371,1000.0,2.0,2,Kabra Group,19.073390300000003,Santacruz East,72.8654319,70000,Apartment
+372,1000.0,2.0,2,Nahar Group,19.105165,Powai,72.9001526,68500,Apartment
+373,1000.0,2.0,2,Bharat Builders,19.0722769,Kalina,72.8642505,75000,Apartment
+374,1000.0,2.0,2,Kabra Group,19.073390300000003,Kalina,72.8654319,65000,Apartment
+375,1000.0,2.0,2,Kabra Group,19.073390300000003,"Sundar Nagar, Kalina",72.8654319,65000,Apartment
+376,1000.0,2.0,2,Kabra Group,19.073390300000003,Santacruz East,72.8654319,65000,Apartment
+377,1000.0,2.0,2,Kabra Group,19.073390300000003,Kalina,72.8654319,65000,Apartment
+378,1000.0,2.0,2,Kabra Group,19.073390300000003,Santacruz East,72.8654319,65000,Apartment
+379,1000.0,2.0,2,Bharat Builders,19.0722769,"Sundar Nagar, Kalina",72.8642505,75000,Apartment
+380,1000.0,2.0,2,Omkar Realtors and Developers Pvt. Ltd.,19.0013826,Parel,72.84845279999998,82000,Apartment
+381,1000.0,2.0,2,Hilla Builder Pvt. Ltd.,19.0514504417779,Bandra West,72.8237370670122,81000,Apartment
+382,1000.0,2.0,2,Rohan Lifescapes Group,19.0324109184029,Matunga West,72.8471564446558,85000,Apartment
+383,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.06680489,Bandra Kurla Complex,72.85129455,99000,Apartment
+384,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.06680489,Bandra Kurla Complex,72.85129455,90000,Apartment
+385,1000.0,2.0,2,JP group,19.0083802813427,Worli,72.83050442467041,85000,Apartment
+386,1000.0,2.0,2,K Raheja Corp,19.1371003,Lokhandwala Complex,72.83205600000002,80000,Apartment
+387,1000.0,3.0,2,DOSTI REALTY,19.0426091,Rani Laxmibai Chowk,72.8670024,90000,Apartment
+388,1000.0,2.0,2,Rizvi Builders,19.0690850543219,Bandra West,72.8249673872925,88000,Apartment
+389,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.139307,Versova,72.8066193,80000,Apartment
+390,1000.0,2.0,2,Sugee Group,19.0233813544503,Shivaji Park,72.8401084790928,90000,Apartment
+391,1000.0,2.0,2,Lodha Group,19.0039855255968,Worli,72.83124868364351,100000,Apartment
+392,1000.0,2.0,2,Shree Yogeshwar Builders And Developers,19.0198623047892,Prabhadevi,72.8320821964833,90000,Apartment
+393,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.06680489,Bandra Kurla Complex,72.85129455,90001,Apartment
+394,1000.0,2.0,2,K Raheja Corp,19.1371003,Andheri West,72.83205600000002,90000,Apartment
+395,1000.0,2.0,2,Hiranandani Group,0.0,Powai,0.0,85000,Apartment
+396,1000.0,2.0,2,JP group,19.0083802813427,Worli,72.83050442467041,85000,Apartment
+397,1000.0,2.0,2,Shree Yogeshwar Builders And Developers,19.0198623047892,Prabhadevi,72.8320821964833,100000,Apartment
+398,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.06680489,Bandra Kurla Complex,72.85129455,90000,Apartment
+399,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.139307,Versova,72.8066193,85000,Apartment
+400,1000.0,2.0,2,Shree Yogeshwar Builders And Developers,19.0198623047892,Prabhadevi,72.8320821964833,85000,Apartment
+401,1000.0,3.0,2,Hiranandani Group,19.11559447,Powai lake,72.91224898,85000,Apartment
+402,1000.0,2.0,2,JP group,19.0083802813427,Worli,72.83050442467041,85000,Apartment
+403,1000.0,2.0,2,K Raheja Corp,19.1371003,Lokhandwala Complex,72.83205600000002,80000,Apartment
+404,1000.0,2.0,2,Sugee Group,19.0233813544503,Dadar West,72.8401084790928,90000,Apartment
+405,1000.0,2.0,2,Shree Yogeshwar Builders And Developers,19.0198623047892,Prabhadevi,72.8320821964833,85000,Apartment
+406,1000.0,2.0,2,DOSTI REALTY,18.998253,Parel,72.848935,85000,Apartment
+407,1000.0,2.0,2,Darsshan Properties,18.9512886,Charni Road,72.8240536,80000,Apartment
+408,1000.0,2.0,2,Hiranandani Group,19.1196327,Powai,72.9055571,82000,Apartment
+409,1000.0,2.0,2,JP group,19.0083802813427,Worli,72.83050442467041,95000,Apartment
+410,1000.0,2.0,2,Kanakia Spaces Realty Pvt. Ltd.,19.06680489,Bandra Kurla Complex,72.85129455,100000,Apartment
+411,1000.0,2.0,2,Reliaable Developers,19.0607198434075,Bandra West,72.8327803789791,80000,Apartment
+412,1000.0,2.0,2,Dotom Realty,19.069289,Khar West,72.83715500000002,100000,Apartment
+413,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,115000,Apartment
+414,1000.0,2.0,2,Lokhandwala Infrastructure,18.9970888,Worli,72.8186688,110000,Apartment
+415,1000.0,2.0,2,Darvesh Group,19.0709431786705,Old Khar,72.83894732691209,105000,Apartment
+416,1000.0,2.0,2,Millennium Group,18.9963055,Lower Parel,72.8253969,120000,Apartment
+417,1000.0,3.0,2,Chandra Builders and Developers,19.07339847,Khar West,72.82501376,120000,Apartment
+418,1000.0,2.0,2,Lodha Group,19.0039855255968,Worli,72.83124868364351,110000,Apartment
+419,1000.0,2.0,2,Hiranandani Group,19.11559447,Central Area,72.91224898,115000,Apartment
+420,1000.0,2.0,2,Supreme Universal,19.0727607526961,Khar West,72.8350965339691,120000,Apartment
+421,1000.0,2.0,2,Lodha Group,19.070864800000006,Worli,72.80974300000003,110000,Apartment
+422,1000.0,2.0,2,Hiranandani Group,19.11559447,Central Area,72.91224898,110000,Apartment
+423,1000.0,2.0,2,Chandra Builders and Developers,19.07339847,Danda,72.82501376,120000,Apartment
+424,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,115000,Apartment
+425,1000.0,2.0,2,Cooperative Group Housing Society,0.0,Prabhadevi,0.0,125000,Apartment
+426,1000.0,2.0,2,Siddhivinayak Constructions,19.0151733070987,Babasaheb Worlikar Chowk,72.8237191393926,105000,Apartment
+427,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,110000,Apartment
+428,1000.0,2.0,2,Hiranandani Group,19.11559447,Central Area,72.91224898,110000,Apartment
+429,1000.0,2.0,2,Dotom Realty,19.069289,Khar West,72.83715500000002,105000,Apartment
+430,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,115000,Apartment
+431,1000.0,2.0,2,Hiranandani Group,19.11559447,Powai,72.91224898,110000,Apartment
+432,1000.0,2.0,2,Hiranandani Group,19.11559447,Central Area,72.91224898,120000,Apartment
+433,1000.0,2.0,2,Hiranandani Group,19.11559447,Central Area,72.91224898,115000,Apartment
+434,1000.0,2.0,2,Shree Laxmi Developers,18.9653298,Mazgaon,72.838814,150000,Apartment
+435,1000.0,3.0,2,Makers Developers,18.9180499,Cuffe Parade,72.8195856,170000,Apartment
+436,1000.0,2.0,3,Brindavan Builders,19.190828650971397,Malad West,72.830784965632,14600,Multistorey Apartment
+437,1000.0,3.0,3,Royal Palms,19.1550273,Goregaon East,72.8850879,25000,Apartment
+438,1000.0,2.0,3,Acme Builders Pvt Ltd,19.1345125,Andheri East,72.86339834,50000,Apartment
+439,1000.0,2.0,3,The Gundecha Group,19.135772,Kanjurmarg West,72.929714,45000,Apartment
+440,1000.0,3.0,3,Darvesh Group,19.1427505411053,Jogeshwari West,72.8432709242813,57000,Apartment
+441,1000.0,3.0,3,Raheja Universal Pvt Ltd.,19.215582816443106,Kandivali East,72.8744334637385,62000,Apartment
+442,1000.0,3.0,3,Divine Space,19.15508006,Goregaon East,72.85083842,55000,Apartment
+443,1000.0,1.0,1,Kanakia Spaces Realty Pvt. Ltd.,19.1150227,Andheri East,72.8590536,5500,Apartment
